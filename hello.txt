@@ -1,1 +1,2 @@
-oi, esse é o meu primeiro arquivo, MODIFICADO
+Este é um arquivo hello de exemplo
+
